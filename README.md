@@ -30,7 +30,6 @@ Note: Install the Terraform and other dependency.   <br>
 once you execute all the cmd , kindly delete the resources you have created by using-  terraform destroy
 *******
 LINKS :   <br>
-linkedin link: https://www.linkedin.com/in/john-paul-m-b34b08235/overlay/create-post/  <br>
-blog link :https://hashnode.com/draft/64da4fa5c90392000f4ec044
-
+linkedin link: https://www.linkedin.com/feed/update/urn:li:share:7097986502470598656/  <br>
+blog link : https://johnpaul548.hashnode.dev/implementing-two-tier-architecture-in-aws-using-terraform-10weeksofcloudops
 
