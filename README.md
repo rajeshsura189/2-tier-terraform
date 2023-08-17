@@ -6,7 +6,8 @@
 In this project, we will be creating 2 tier application in AWS using Infrastructure as Code(IAC) tool Known as Terraform as shown below in the architectural diagram. HashiCorp Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
 
 Animated diagram:
-![8888888](https://github.com/JOHNPAUL548/2-tier-terraform/assets/133748987/54476941-3293-401e-8553-d757eb1224a3)
+![8888888](https://github.com/JOHNPAUL548/2-tier-terraform/assets/133748987/ec80eaa6-3f85-473e-8a87-95356a686389)
+
 
 💻#Deploy terraform
 Note: Install the Terraform and other dependency.   <br>
