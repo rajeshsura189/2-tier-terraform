@@ -1,4 +1,4 @@
-# Deploy Application Load Balancer
+# Deploy Application Load Balancer in AWS
 resource "aws_lb" "alb" {
   name               = "alb"
   internal           = false
